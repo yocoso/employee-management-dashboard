@@ -1,11 +1,13 @@
 # Dependency directories
 node_modules/
+package-lock.json
 
 # Environment configuration files
 .env*
 .env.*.local
 
 # Build outputs
+build/
 /build
 /dist
 *.log
