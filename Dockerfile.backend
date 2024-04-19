@@ -1,0 +1,17 @@
+# Use an official Node runtime as a parent image
+FROM node:alpine
+
+# Set the working directory
+WORKDIR /app
+
+# Copy the current directory contents into the container at /app
+COPY ./rest-api .
+
+# Install any needed packages
+RUN npm install
+
+# Make port 8080 available to the world outside this container
+EXPOSE 8080
+
+# Run node when the container launches
+CMD ["node", "app.js"]
