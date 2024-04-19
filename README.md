@@ -72,31 +72,31 @@ The Employee Management Dashboard offers a range of features designed to facilit
 
 Displays a list of employees in a tabular format with options to filter employees by department and status, making it easier to manage and view employee data according to specific criteria.
 
-![View Employees](https://github.com/yocoso/employee-management-dashboard/screenshots/viewEmployees.png)
+![View Employees](https://github.com/yocoso/employee-management-dashboard/blob/master/screenshots/viewEmployees.png?raw=true)
 
 ### Add Employee
 
 Provides a user-friendly modal for adding new employee records to the database. This feature simplifies the process of entering new employee data into the system.
 
-![Add Employee](https://github.com/yocoso/employee-management-dashboard/screenshots/addEmployee.png)
+![Add Employee](https://github.com/yocoso/employee-management-dashboard/blob/master/screenshots/addEmployee.png?raw=true)
 
 ### Edit Employee
 
 Allows for the modification of existing employee records through a modal. This feature ensures that employee information can be kept up-to-date with ease.
 
-![Edit Employee](https://github.com/yocoso/employee-management-dashboard/screenshots/editEmployee.png)
+![Edit Employee](https://github.com/yocoso/employee-management-dashboard/blob/master/screenshots/editEmployee.png?raw=true)
 
 ### Delete Employee
 
 Enables the removal of employee records from the database, including a confirmation prompt to prevent accidental deletions.
 
-![Delete Employee](https://github.com/yocoso/employee-management-dashboard/screenshots/deleteEmployee.png)
+![Delete Employee](https://github.com/yocoso/employee-management-dashboard/blob/master/screenshots/deleteEmployee.png?raw=true)
 
 ### HR Assistant Chatbot
 
 An AI-powered HR assistant chatbot that answers questions based on the employee data. This innovative feature provides immediate answers to queries, enhancing the user experience.
 
-![HR Assistant Chatbot](https://github.com/yocoso/employee-management-dashboard/screenshots/chat.png)
+![HR Assistant Chatbot](https://github.com/yocoso/employee-management-dashboard/blob/master/screenshots/chat.png?raw=true)
 
 ## Technology Stack
 
